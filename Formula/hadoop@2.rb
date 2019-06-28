@@ -1,4 +1,4 @@
-class Hadoop < Formula
+class HadoopAT2 < Formula
   desc "Framework for distributed processing of large data sets"
   homepage "https://hadoop.apache.org/"
   url "https://www.apache.org/dyn/closer.cgi?path=hadoop/common/hadoop-2.8.2/hadoop-2.8.2.tar.gz"
